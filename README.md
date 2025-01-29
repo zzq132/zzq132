@@ -17,6 +17,13 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zzq132&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
+    </picture>
+</p>
+<p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=zzq132&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
@@ -30,13 +37,6 @@
     <a href="https://github.com/zzq132"><img src="https://img.shields.io/badge/GitHub-zzq132-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/zzq132"><img src="https://img.shields.io/badge/Gitee-zzq132-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/475400452"><img src="https://img.shields.io/badge/bilibili-EternitySDK-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-</p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
-</picture>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
