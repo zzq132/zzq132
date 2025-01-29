@@ -32,6 +32,13 @@
     <a href="https://space.bilibili.com/475400452"><img src="https://img.shields.io/badge/bilibili-EternitySDK-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
 </p>
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzq132/zzq132/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+<p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
